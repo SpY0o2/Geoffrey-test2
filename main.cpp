@@ -4,7 +4,7 @@
 
 int main () {
    std::cout << "hello world" << std::endl;
-   
+   std::cout << "changes from A" << std::endl;   
 
 }
 
